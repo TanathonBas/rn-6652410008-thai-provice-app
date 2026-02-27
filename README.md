@@ -1,50 +1,28 @@
-# Welcome to your Expo app 👋
+# Welcome to my Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Thai-provice-app
+## หน้าเข้าแอป
+<img width="435" height="860" alt="image" src="https://github.com/user-attachments/assets/f597829d-16bd-45e6-b76a-daa1d8297fc5" />
+## หน้าที่เที่ยวแนะนำ
+<img width="442" height="866" alt="image" src="https://github.com/user-attachments/assets/e8181d03-7511-48bb-8624-d17fad177a5c" />
 
-1. Install dependencies
+<img width="427" height="863" alt="image" src="https://github.com/user-attachments/assets/0c7b5f2f-30e1-4c4d-9e23-96a9cee5986c" />
 
-   ```bash
-   npm install
-   ```
+<img width="436" height="864" alt="image" src="https://github.com/user-attachments/assets/910768ac-1edb-41ff-b924-0780efd669fb" />
+## หน้าร้านอาหารแนะนำ
+<img width="441" height="862" alt="image" src="https://github.com/user-attachments/assets/b964ba43-0a5b-4bec-ac17-5347095f9b04" />
 
-2. Start the app
+<img width="440" height="854" alt="image" src="https://github.com/user-attachments/assets/12eb5a31-a796-482b-aeb7-f43904b8a937" />
+## หน้าร้านกาแฟแนะนำ
+<img width="436" height="866" alt="image" src="https://github.com/user-attachments/assets/a65cdac2-f85e-466a-b227-6439ec69ed57" />
 
-   ```bash
-   npx expo start
-   ```
+<img width="441" height="870" alt="image" src="https://github.com/user-attachments/assets/bf1cd433-b3d6-45e1-b96c-d0b8d09a731c" />
+## หน้าวัดแนะนำ
+<img width="442" height="867" alt="image" src="https://github.com/user-attachments/assets/7e17d6b8-ee34-4350-810c-b4400b10c2f0" />
 
-In the output, you'll find options to open the app in a
+<img width="439" height="864" alt="image" src="https://github.com/user-attachments/assets/05201d87-6f56-4f14-aece-3489001b8de0" />
+## หน้างานประเพณี
+<img width="438" height="861" alt="image" src="https://github.com/user-attachments/assets/a8668c2c-91f6-4670-84d2-73f86c2dd29b" />
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<img width="441" height="865" alt="image" src="https://github.com/user-attachments/assets/6cb5dd02-ffea-45e1-b66e-22550288b0ee" />
